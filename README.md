@@ -21,6 +21,10 @@
 
 ### 📊 GitHub Analytics:
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=KING-ASHE&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=KING-ASHE&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=KING-ASHE&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=KING-ASHE&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KING-ASHE&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
 </p>
