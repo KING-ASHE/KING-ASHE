@@ -24,8 +24,3 @@
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=KING-ASHE&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=KING-ASHE&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
 </p>
-
-### 📊 GitHub Metrics:
-<p align="center">
-  <img src="https://metrics.lecoq.io/KING-ASHE?template=classic&base=header%2C+activity%2C+community%2C+repositories&config.timezone=Asia%2FColombo" alt="GitHub Metrics" width="100%" />
-</p>
